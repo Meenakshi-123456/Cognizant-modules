@@ -42,3 +42,5 @@ Name: Steeve
 School: DNV Public School
 Total: 284 Marks
 Score: 94.67%
+<img width="944" height="503" alt="image" src="https://github.com/user-attachments/assets/223e9d15-7f8a-47b2-a2a5-5df7903e3be4" />
+
