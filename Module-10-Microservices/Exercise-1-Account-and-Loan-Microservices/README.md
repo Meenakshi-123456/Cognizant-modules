@@ -64,3 +64,8 @@ Both controllers return a Map<String, Object>, which Spring automatically serial
 1. Start the account service and test http://localhost:8080/accounts/00987987973432
 2. Start the loan service and test http://localhost:8081/loans/H00987987972342
 3. Both services can run at the same time since they use different ports
+<img width="1517" height="735" alt="image" src="https://github.com/user-attachments/assets/22b9c89b-ab6b-498e-b05d-da0dc412bce6" />
+<img width="1547" height="716" alt="image" src="https://github.com/user-attachments/assets/1d77bb06-3c83-4a4a-9e45-3663efa8572b" />
+<img width="1521" height="728" alt="image" src="https://github.com/user-attachments/assets/5589f54c-9ea9-4a45-85bc-a2abad32aafb" />
+<img width="1528" height="744" alt="image" src="https://github.com/user-attachments/assets/493d781f-2b3e-4726-b49a-ca5cd537da77" />
+<img width="1521" height="718" alt="image" src="https://github.com/user-attachments/assets/e7cb33e6-4f70-4148-9a48-4c032880d957" />
